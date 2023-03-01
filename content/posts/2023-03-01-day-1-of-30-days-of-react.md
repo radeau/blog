@@ -1,0 +1,20 @@
+---
+title: "Day 1 of 30 Days of React"
+slug:
+description: "Learning React in 30 Days"
+date: 2023-03-01 23:38:16
+author: kevin-rad
+tags: 
+    - 30-days-of-react
+    - front-end-development
+cover:
+fullscreen: false
+---
+
+Today was the first day of my 30 days of learning React journey. I learned how to set up my React environment, including installing Node.js and using the create-react-app command to create a new React project.
+
+One of the important topics that I learned today is what JSX is and how it works in React. I learned that JSX is a syntax extension for JavaScript that allows us to write HTML-like code in our JavaScript files. This makes it easier to create and manage our user interface in React.
+
+To practice using JSX, I completed some exercises, including creating a new component called Title that renders a heading element with a text prop, and another component called Button that renders a button element with a label prop.
+
+Looking forward to tomorrow's lesson, I am excited to learn more about React components and how they work, including how to create and render components, and how to use props and state to pass data between components.
