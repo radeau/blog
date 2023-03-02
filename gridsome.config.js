@@ -2,7 +2,7 @@ module.exports = {
   siteName: 'Radify',
   siteDescription: "Bleda is a blog starter kit for Gridsome, the Vue.js static site generator. It's inspired by Attila for Ghost, and styled with Tailwind CSS.",
   siteUrl: 'https://radeau.github.io',
-  pathPrefix: '/<blog>',
+  pathPrefix: '/blog',
   titleTemplate: `%s | Radify`,
   icon: 'src/favicon.png',
 
@@ -39,7 +39,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-135446199-1',
+        id: '',
       },
     },
     {
