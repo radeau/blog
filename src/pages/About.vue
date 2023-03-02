@@ -36,6 +36,8 @@
 
           <p>Keep on searching, friends, and never settle for anything less than what sets your heart on fire.</p>
 
+          <img src="../radify.png" alt="Hello there" class="m-6">
+
         </div>
       </article>
       <site-footer class="pb-8 sm:pb-10" />
