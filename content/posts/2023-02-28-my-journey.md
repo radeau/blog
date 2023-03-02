@@ -9,6 +9,7 @@ tags:
 cover: https://images.unsplash.com/photo-1518010741929-b44e969137d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=80
 fullscreen: false
 ---
+
 Yoga Nidra, also referred to as "yogic sleep," is an incredibly potent meditation technique that has the ability to take you on a profound journey deep into your subconscious mind. Ever since discovering it through Andrew Huberman's podcasts, I have been regularly practicing yoga nidra for a while now. During a recent session, I had an experience that left me feeling both inexplicably rested and somewhat surreal.
 
 > "It was as if my body was no longer bound to the earth and I was
@@ -30,6 +31,7 @@ If you're feeling stressed, anxious, or just plain curious, you should give Yoga
 >"Yoga is not about touching your toes, 
 >it's about what you learn on the way down."
 >~Jigar
+
 
 
 
