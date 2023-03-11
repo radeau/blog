@@ -1,10 +1,10 @@
 module.exports = {
   siteName: 'Radify',
-  siteDescription: "Bleda is a blog starter kit for Gridsome, the Vue.js static site generator. It's inspired by Attila for Ghost, and styled with Tailwind CSS.",
-  siteUrl: 'https://radeau.github.io',
+  siteDescription: "Personal blog site of Rad",
+  siteUrl: 'https://radeau.github.io/blog',
   pathPrefix: '/blog',
-  titleTemplate: `%s | Radify`,
-  icon: 'src/favicon.png',
+  titleTemplate: `%s`,
+  icon: '../src/radify.png',
 
   transformers: {
     remark: {
@@ -39,7 +39,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: '',
+        id: 'G-82BHPY1XY8'
       },
     },
     {
@@ -53,14 +53,14 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Bleda, a Gridsome blog starter',
-          feed_url: 'https://gridsome-starter-bleda.netlify.com/feed.xml',
-          site_url: 'https://gridsome-starter-bleda.netlify.com',
+          title: 'Radify',
+          feed_url: 'https://radeau.github.io/blog/feed.xml',
+          site_url: 'https://radeau.github.io/blog',
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'https://gridsome-starter-bleda.netlify.com' + node.path,
+          url: 'https://radeau.github.io/blog' + node.path,
           author: node.author,
           date: node.date,
         }),

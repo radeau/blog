@@ -11,3 +11,5 @@ export default function (Vue, { head }) {
     href: 'https://fonts.googleapis.com/css?family=Fira+Sans:400,700%7CCardo'
   })
 }
+
+

@@ -2,12 +2,13 @@
 title: "Yoga Nidra: A Journey into the Subconscious"
 slug:
 description: "Yoga nidra experience"
-date: 2023-02-28 11:31:10
+date: 2023-02-15 11:31:10
 author: kevin-rad
 tags: 
     - personal-stories
-cover: 
-fullscreen: false
+cover: "/pexels-cottonbro-studio-4325489.jpg"
+excerpt: "Ever since discovering it through Andrew Huberman's podcasts, I have been regularly practicing yoga nidra for a while now [...]"
+fullscreen: true
 ---
 
 
@@ -40,12 +41,15 @@ When the practice ended, I felt a deep sense of rest and relaxation, as if I had
     <div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/el7Y5DVVAxu2uBa5ZG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 </div>
 
-If you're feeling stressed, anxious, or just plain curious, you should give Yoga Nidra a try. It's a powerful way to explore your inner world and tap into your creativity. And who knows, you might just end up floating in space too (figuratively, of course). 
+If you're feeling stressed, anxious, or just plain curious, you should give Yoga Nidra a try. It's a powerful way to explore your inner world and tap into your creativity. And who knows, you might just end up floating in space too (figuratively, of course😁). 
 
 >"Yoga is not about touching your toes, 
 >it's about what you learn on the way down."
 >~Jigar
 
+<div style="margin-top:30px;font-size:14px;font-style:italic">
+**GIFs are not my own, you can check them in <a href="https://giphy.com" target="_blank">here</a>.
+</div>
 
 
 

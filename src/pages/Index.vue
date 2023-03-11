@@ -34,18 +34,7 @@ export default {
     return {
       title: this.$static.metadata.siteName,
       meta: [
-        { property: "og:type", content: 'website' },
-        { property: "og:title", content: this.$static.metadata.siteName },
-        { property: "og:description", content: this.$static.metadata.siteDescription },
-        { property: "og:url", content: this.$static.metadata.siteUrl },
-        { property: "og:image", content: this.ogImageUrl },
-
-        { name: "twitter:card", content: "summary_large_image" },
-        { name: "twitter:title", content: this.$static.metadata.siteName },
-        { name: "twitter:description", content: this.$static.metadata.siteDescription },
-        { name: "twitter:site", content: "@cossssmin" },
-        { name: "twitter:creator", content: "@cossssmin" },
-        { name: "twitter:image", content: this.ogImageUrl },
+     
       ],
     }
   },
@@ -62,7 +51,7 @@ export default {
 
 <page-query>
   query Home ($page: Int) {
-    posts: allPost (page: $page, perPage: 6) @paginate {
+    posts: allPost (page: $page, perPage: 3) @paginate {
       totalCount
       pageInfo {
         totalPages

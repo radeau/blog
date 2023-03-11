@@ -114,7 +114,7 @@ export default {
       return config
     },
     avatar () {
-      return `/images/authors/${this.$page.post.author.id}.png`
+      return `../images/authors/${this.$page.post.author.id}.png`
     },
     postIsOlderThanOneYear () {
       let postDate = moment(this.$page.post.datetime)

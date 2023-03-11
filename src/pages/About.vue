@@ -12,20 +12,24 @@
 
         <div class="markdown text-lg leading-normal text-gray-700">
 
-          <h3>Well, hello there!</h3>
+          <h3>Well, hello there!👋</h3>
 
-          <p>My name is Kevin Rad, and I'm the lucky turtle behind this blog. I'm so thrilled to have you here to join me on my wild and wacky journey through life, technology, and everything in between.</p>
+          <p>I'm here to share with you all the ups and downs of my wild and wacky journey through life. 
+          My name is Kevin Rad, and I'm the one behind this blog that's all about the journey, 
+          the experience, and the laughs.</p>
           
-          <p>I've always been a bit of a tech nerd, and I love coding (when it worked haha! but mostly furious when there's too many bugs), exploring new gadgets and gizmos. I mean, who doesn't love the thrill of 
-          learning a new tech and praying that you don't accidentally hit the self-destruct button? But beyond the tech stuff, I'm also all about 
-          living life to the fullest and having fun along the way.</p>
+          <p>I'm not your typical writer, and I'm not here to preach about what's right or wrong. 
+          Instead, I'm all about sharing my personal experiences and having a good laugh along the 
+          way. Life can be tough, but it's also full of adventure, and I'm here to show you that even 
+          the worst moments can be turned into something worth smiling about.</p>
 
-          <p>I've learned a lot over the years - sometimes the hard way - and I love sharing my experiences with others. Whether it's a 
-          hilarious story about a misadventure with a new buzzwords or a deep realization about the meaning of life, I always try to keep it 
-          real and share what I've learned.</p>
+          <p>My journey has taken me down many paths, some good, some not so good, but every experience 
+          has taught me something valuable. I've had my fair share of misadventures and laugh-out-loud 
+          moments, and I can't wait to share them with you.</p>
 
-          <p>My hope is that through my blog, I can help others navigate the ups and downs of life and tech with a little more humor and grace. 
-          We're all in this together, after all!</p>
+          <p>I believe that life is too short to take everything so seriously (though people see me as serious type, 
+          well 🤷‍♂️ maybe they don't know me that deep haha), and I hope that through my blog, I can inspire you to take 
+          risks, chase your dreams, and find the humor in even the most challenging moments.</p>
           
           <p>And as we navigate this crazy journey, I'll leave you with this quote from the tech legend, Steve Jobs: </p>
           
@@ -34,9 +38,9 @@
             Don't settle. As with all matters of the heart, you'll know when you find it."</p>
           </blockquote>
 
-          <p>Keep on searching, friends, and never settle for anything less than what sets your heart on fire.</p>
+          <p>Keep on searching, friends, and never settle for anything less than what sets your heart on fire.❤️</p>
 
-          <img src="../radify.png" alt="Hello there" class="m-6">
+          <img src="../radify.png" alt="rad-nickname" class="m-6">
 
         </div>
       </article>
@@ -83,7 +87,7 @@ export default {
       return config
     },
     ogDescription () {
-      return 'Introduction to the Bleda blog starter for Gridsome.'
+      return 'Rad\'s Blog.'
     },
     ogImageUrl () {
       return `${this.config.siteUrl}/images/bleda-card.png`
