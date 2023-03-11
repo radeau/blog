@@ -15,7 +15,7 @@
       </div>
       <ClientOnly>
         <parallax :speed-factor="speedFactor" :sectionHeight="80">
-          <img :src="post.cover" :alt="post.title">
+          <img :src="`${post.cover}`" :alt="post.title">
         </parallax>
       </ClientOnly>
     </div>

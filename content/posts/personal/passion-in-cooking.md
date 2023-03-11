@@ -5,8 +5,8 @@ date: 2022-04-22 13:59:57
 author: kevin-rad
 tags:
     - personal-stories
-cover: https://images.unsplash.com/photo-1486427944299-d1955d23e34d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&h=1080&q=80
-fullscreen: false
+cover: "/blog/pylyp-sukhenko-y-XZf_TNRms-unsplash.jpg"
+fullscreen: true
 ---
 
 I'm not talking about your everyday burnt toast or scrambled eggs (although I have a Ph.D. in the latter). I mean the type of cooking that involves creating dishes that make Gordon Ramsay's mouth water.
@@ -41,6 +41,6 @@ But here's the thing - cooking isn't just about impressing others. It's also abo
 So here's my advice to you, dear reader: don't be afraid to unleash your inner chef. Who knows, you might just discover the next Fried Chicken ala McJobee and Adobo in white sauce with pickled onions on top - such a masterpiece. And even if your food isn't that great, just remember that your family and friends will probably say **it's delicious anyway**.
 
 <div style="margin-top:30px;font-size:14px;font-style:italic">
-**GIFs are not my own, you can check them in <a href="https://giphy.com" target="_blank">here</a>.
+**GIFs are not my own, you can check them in <a href="https://giphy.com" target="_blank">here</a>. Cover Photo by <a href="https://unsplash.com/@novokayn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pylyp Sukhenko</a> on <a href="https://unsplash.com/photos/y-XZf_TNRms?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
 </div>
 

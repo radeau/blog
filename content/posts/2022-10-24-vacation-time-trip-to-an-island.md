@@ -5,9 +5,9 @@ description: ""
 date: 2022-10-24 12:35:45
 author: kevin-rad
 tags:
-# cover: '../IMG-1338.JPG'
+cover: '/blog/IMG-1338.JPG'
 excerpt: "Hey there folks, and I'm finally back in my homeland, the Philippines! After three long years, I'm ready to experience all the excitement and thrills that come with being home. But don't worry, I'm not going to bore you with a long list of things to do and places to go, because this time, I'm doing things differently [...]"
-fullscreen: false
+fullscreen: true
 ---
 
 Hey there folks, I'm finally back in my homeland, the Philippines! After three long years, I'm ready to experience all the excitement and thrills that come with being home. But don't worry, I'm not going to bore you with a long list of things to do and places to go, because this time, I'm doing things differently.

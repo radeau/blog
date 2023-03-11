@@ -6,7 +6,7 @@ date: 2023-02-15 11:31:10
 author: kevin-rad
 tags: 
     - personal-stories
-cover: "/pexels-cottonbro-studio-4325489.jpg"
+cover: "/blog/tim-goedhart-vnpTRdmtQ30-unsplash.jpg"
 excerpt: "Ever since discovering it through Andrew Huberman's podcasts, I have been regularly practicing yoga nidra for a while now [...]"
 fullscreen: true
 ---
@@ -48,7 +48,7 @@ If you're feeling stressed, anxious, or just plain curious, you should give Yoga
 >~Jigar
 
 <div style="margin-top:30px;font-size:14px;font-style:italic">
-**GIFs are not my own, you can check them in <a href="https://giphy.com" target="_blank">here</a>.
+**GIFs are not my own, you can check them in <a href="https://giphy.com" target="_blank">here</a>. Cover photo by <a href="https://unsplash.com/@nofilter_noglory?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Goedhart</a> on <a href="https://unsplash.com/photos/vnpTRdmtQ30?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
 </div>
 
 
