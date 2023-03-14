@@ -14,9 +14,10 @@
 
           <h3>Well, hello there!👋</h3>
 
-          <p>I'm here to share with you all the ups and downs of my wild and wacky journey through life. 
-          My name is Kevin Rad, and I'm the one behind this blog that's all about the journey, 
-          the experience, and the laughs.</p>
+          <p>I'm Kevin, the person behind this fun and inspiring blog. I started this project as a way to practice some 
+          tech skills and keep a record of my experiences for the years to come. There's something magical about 
+          reflecting on the journey we've taken and seeing how far we've come. Plus, it's always great to have a place
+          to jot down our thoughts and ideas!</p>
           
           <p>I'm not your typical writer, and I'm not here to preach about what's right or wrong. 
           Instead, I'm all about sharing my personal experiences and having a good laugh along the 
@@ -27,18 +28,23 @@
           has taught me something valuable. I've had my fair share of misadventures and laugh-out-loud 
           moments, and I can't wait to share them with you.</p>
 
-          <p>I believe that life is too short to take everything so seriously (though people see me as serious type, 
-          well 🤷‍♂️ maybe they don't know me that deep haha), and I hope that through my blog, I can inspire you to take 
-          risks, chase your dreams, and find the humor in even the most challenging moments.</p>
+          <p>Now, I'm not going to lie, not all of my personal experiences are meant for public consumption. 
+          (I mean, who doesn't have a few juicy secrets, right?) But the parts that I am sharing are guaranteed 
+          to be interesting and fun! So, feel free to peruse my little corner of the internet and let me know what 
+          you think.</p>
+
+          <p>If you have any recommendations or comments, please don't hesitate to shoot me an email at kevinradp@gmail.com. 
+          I'm always looking for ways to improve, and I'm excited to hear what you have to say. Thanks for stopping by, 
+          and I hope you enjoy your time here!</p>
           
-          <p>And as we navigate this crazy journey, I'll leave you with this quote from the tech legend, Steve Jobs: </p>
+          <p>Meanwhile, I'll leave you with this quote from the tech legend, Steve Jobs: </p>
           
           <blockquote>
             <p>"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. 
             Don't settle. As with all matters of the heart, you'll know when you find it."</p>
           </blockquote>
 
-          <p>Keep on searching, friends, and never settle for anything less than what sets your heart on fire.❤️</p>
+          <p>So let's keep on searching, friends, and never settle for anything less than what sets your heart on fire.❤️</p>
 
           <img src="../radify.png" alt="rad-nickname" class="m-6">
 

@@ -51,7 +51,7 @@ export default {
 
 <page-query>
   query Home ($page: Int) {
-    posts: allPost (page: $page, perPage: 3) @paginate {
+    posts: allPost (page: $page, perPage: 5) @paginate {
       totalCount
       pageInfo {
         totalPages

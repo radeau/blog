@@ -4,7 +4,7 @@ module.exports = {
   siteUrl: 'https://radeau.github.io/blog',
   pathPrefix: '/blog',
   titleTemplate: `%s`,
-  icon: '../src/radify.png',
+  icon: 'src/favicon.png',
 
   transformers: {
     remark: {
